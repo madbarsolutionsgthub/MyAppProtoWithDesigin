@@ -1,0 +1,87 @@
+[
+	{
+		"sNo":"1",
+		"categoryId":"11",
+		"qst":"What is Switch ?",
+		"ans":"Switch is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"2",
+		"categoryId":"11",
+		"qst":"What is Router?",
+		"ans":"Router is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"3",
+		"categoryId":"11",
+		"qst":"What is GetWay?",
+		"ans":"Getway is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"4",
+		"categoryId":"11",
+		"qst":"What is Brized?",
+		"ans":"Brized is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"5",
+		"categoryId":"11",
+		"qst":"What is Nic?",
+		"ans":"Nic is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"6",
+		"categoryId":"11",
+		"qst":"What is Modem?",
+		"ans":"Modem is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"7",
+		"categoryId":"11",
+		"qst":"What is Brized?",
+		"ans":"Firewall is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"8",
+		"categoryId":"11",
+		"qst":"What is Ram ?",
+		"ans":"Ram is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"9",
+		"categoryId":"11",
+		"qst":"What is Rom?",
+		"ans":"Rom is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"10",
+		"categoryId":"11",
+		"qst":"What is Motherboard?",
+		"ans":"Motherboard is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"11",
+		"categoryId":"11",
+		"qst":"What is Keyboard?",
+		"ans":"Keyboard is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"12",
+		"categoryId":"11",
+		"qst":"What is Mouse?",
+		"ans":"Mouse is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"13",
+		"categoryId":"11",
+		"qst":"What is USB?",
+		"ans":"USB is the Nwtworking hardware device for Connection morethen one computer."
+	},
+	{
+		"sNo":"14",
+		"categoryId":"11",
+		"qst":"What is Power?",
+		"ans":"Power is the Nwtworking hardware device for Connection morethen one computer."
+	}
+
+]

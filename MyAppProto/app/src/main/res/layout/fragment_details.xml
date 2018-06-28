@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailsFragment">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="7dp"
+        card_view:cardCornerRadius="2dp"
+        card_view:cardElevation="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/cardview_bg">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="5dp"
+                android:orientation="horizontal"
+                android:weightSum="5">
+                <View
+                    android:layout_width="5dp"
+                    android:layout_height="100dp"
+                    android:background="@color/colorPrimary"></View>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical"
+                    android:paddingLeft="10dp">
+
+                    <madbarsoft.com.myappproto.TextView_Lato
+                        android:id="@+id/categoryNameHolderId"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Amira Wahas"
+                        android:textColor="@color/colorGray"
+                        android:textSize="15dp"
+                        android:textStyle="bold" />
+
+                    <madbarsoft.com.myappproto.Textview_lato_thin
+                        android:id="@+id/currentStatusId"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:text="Data Scientist"
+                        android:textColor="@color/colorLightGray"
+                        android:textSize="14dp" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="50dp"
+        android:orientation="vertical"
+        android:background="@color/cardview_light_background"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/detailsShowTxVuAnsId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Ans: This is our ans"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="5dp"
+        android:gravity="bottom">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:background="@color/colorPrimary"
+            >
+
+            <Button
+                android:id="@+id/btnBackId"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="2.0"
+                android:background="#d98050"
+                android:padding="10dp"
+                android:text="Back"
+                android:textStyle="bold"
+                android:layout_gravity="top"
+                android:textColor="#ffff"
+                />
+
+            <Button
+                android:id="@+id/btnHomeId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ic_home_black_24dp"
+                android:tint="@color/colorOrange"
+                android:layout_weight="1.0"
+                android:padding="10dp"/>
+
+            <Button
+                android:id="@+id/btnListId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ic_list_black_24dp"
+                android:tint="@color/colorOrange"
+                android:layout_weight="1.0"
+                android:padding="10dp"/>
+            <Button
+                android:id="@+id/btnNextId"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="2.0"
+                android:background="#d98050"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:text="Next"
+                android:layout_gravity="top"
+                android:textColor="#ffff"
+                />
+
+
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</FrameLayout>

@@ -1,0 +1,93 @@
+[
+	{
+		"sNo":"1",
+		"categoryId":"10",
+		"qst":"When was the first computer invented ? ",
+		"ans":"The first mechanical computer, created by Charles Babbage in 1822."
+	},
+	{
+		"sNo":"2",
+		"categoryId":"10",
+		"qst":"When was the word 'computer' was first used ?",
+		"ans":"The word 'computer' was first recorded as being used in 1613 and originally was used to describe a human who performed calculations or computations."
+	},
+	{
+		"sNo":"3",
+		"categoryId":"10",
+		"qst":"First mechanical computer or automatic computing engine concept ?",
+		"ans":"In 1822, Charles Babbage conceptualized and began developing the Difference Engine, considered to be the first automatic computing machine."
+	},
+	{
+		"sNo":"4",
+		"categoryId":"10",
+		"qst":"First programmable computer",
+		"ans":"The Z1 was created by German Konrad Zuse in his parents' living room between 1936 and 1938. It is considered to be the first electro-mechanical binary programmable computer, and the first really functional modern computer."
+	},
+	{
+		"sNo":"5",
+		"categoryId":"10",
+		"qst":"First concepts of what we consider a modern computer ?",
+		"ans":"The Turing machine was first proposed by Alan Turing in 1936 and became the foundation for theories about computing and computers."
+	},
+	{
+		"sNo":"6",
+		"categoryId":"10",
+		"qst":"When was the first computer invented ? ",
+		"ans":"The first mechanical computer, created by Charles Babbage in 1822."
+	},
+	{
+		"sNo":"7",
+		"categoryId":"10",
+		"qst":"When was the word 'computer' was first used ?",
+		"ans":"The word 'computer' was first recorded as being used in 1613 and originally was used to describe a human who performed calculations or computations."
+	},
+	{
+		"sNo":"8",
+		"categoryId":"10",
+		"qst":"First mechanical computer or automatic computing engine concept ?",
+		"ans":"In 1822, Charles Babbage conceptualized and began developing the Difference Engine, considered to be the first automatic computing machine."
+	},
+	{
+		"sNo":"9",
+		"categoryId":"10",
+		"qst":"First programmable computer",
+		"ans":"The Z1 was created by German Konrad Zuse in his parents' living room between 1936 and 1938. It is considered to be the first electro-mechanical binary programmable computer, and the first really functional modern computer."
+	},
+	{
+		"sNo":"10",
+		"categoryId":"10",
+		"qst":"First concepts of what we consider a modern computer ?",
+		"ans":"The Turing machine was first proposed by Alan Turing in 1936 and became the foundation for theories about computing and computers."
+	},
+	{
+		"sNo":"11",
+		"categoryId":"10",
+		"qst":"When was the first computer invented ? ",
+		"ans":"The first mechanical computer, created by Charles Babbage in 1822."
+	},
+	{
+		"sNo":"12",
+		"categoryId":"10",
+		"qst":"When was the word 'computer' was first used ?",
+		"ans":"The word 'computer' was first recorded as being used in 1613 and originally was used to describe a human who performed calculations or computations."
+	},
+	{
+		"sNo":"13",
+		"categoryId":"10",
+		"qst":"First mechanical computer or automatic computing engine concept ?",
+		"ans":"In 1822, Charles Babbage conceptualized and began developing the Difference Engine, considered to be the first automatic computing machine."
+	},
+	{
+		"sNo":"14",
+		"categoryId":"10",
+		"qst":"First programmable computer",
+		"ans":"The Z1 was created by German Konrad Zuse in his parents' living room between 1936 and 1938. It is considered to be the first electro-mechanical binary programmable computer, and the first really functional modern computer."
+	},
+	{
+		"sNo":"15",
+		"categoryId":"10",
+		"qst":"First concepts of what we consider a modern computer ?",
+		"ans":"The Turing machine was first proposed by Alan Turing in 1936 and became the foundation for theories about computing and computers."
+	}
+
+]
